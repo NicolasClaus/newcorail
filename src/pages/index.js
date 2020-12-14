@@ -7,7 +7,7 @@ import Status from "../components/Status"
 const Index = () => (
   <Layout>
     <Status />
-    <View title="Bienvenue chez IT Corail à Liège">
+    <View title="Bienvenue dans la société IT Corail à Liège">
       <p>
        Notre grande société IT Corail se veut un partenaire de services informatiques pour toutes les entreprises, administrations et associations en région liégeoise et belge. 
       </p>
